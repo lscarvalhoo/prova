@@ -20,6 +20,7 @@ certifique-se de colocar a string que de conexão da sua máquina no meu caso
 Em seguida ainda no console do gerenciador digite o comando
 Add-Migration (escolha o nome do migration)
 e por fim o comando
-Update-Databe 
+Update-Database
+
 
 A aplicação já estara "pronta para funcionar"
