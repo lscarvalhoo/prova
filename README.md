@@ -11,7 +11,7 @@ Descompacte o arquivo prova.zip, dentro da pasta Prova, execute o arquivo "Prova
 Com o projeto aberto, selecione o Terminal de gerenciamento de pacotes Nugget localizado em
 Ferramentas -> Gerenciador de Pacotes do Nugget -> Console do Gerenciador de pacotes
 Em seguida execute o seguinte comando
-Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.SqlServer 
 Logo após,
 Install-Package Microsoft.EntityFrameworkCore.Tools
 Na pasta Models dentro da solução exite a classe de contexto do banco de dados
